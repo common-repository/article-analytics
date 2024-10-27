@@ -1,0 +1,23 @@
+.widget-item-title {
+    width: 180px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.status-bar {
+    background-color: graytext;
+    height: 12px;
+    margin-top: -19px;
+    margin-left: 35px;
+}
+
+.setting-input {
+    margin: 10px;
+}
+.setting-input-submit {
+    margin-top: 10px;
+}
+.setting-label-margin-right {
+    margin-right: 10px;
+}
